@@ -1,5 +1,5 @@
 # Drink-Water
-Click "Small Cups" and show event :)
+Click "Small Cups" and show event 
 
 -----BEGIN PRIVATE KEY-----
 
