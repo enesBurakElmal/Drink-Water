@@ -14,4 +14,4 @@ This key for your healt.
 
 Enjoy! 
 
-https://eneselmal.github.io/Drink-Water/
+https://enesburakelmal.github.io/Drink-Water/
